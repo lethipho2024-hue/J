@@ -908,11 +908,11 @@ POST /api/v1/breeding/start
 
 ## ⚠️ DISCLAIMER
 
-> **Document này chỉ dành cho mục đích GIÁO DỤC và HỌC TẬP.**
+> **Document này chỉ dành cho mục đích TẠO TOOL.**
 > 
-> Việc sử dụng các tool hack game là hành vi BẤT HỢP PHÁP và vi phạm điều khoản sử dụng của game.
+> Việc sử dụng các tool hack game là để hoc hoi .
 > 
-> Tác giả không khuyến khích hoặc ủng hộ bất kỳ hành vi hack, cheat, hay vi phạm bản quyền nào.
+> Tác giả khuyến khích hoặc ủng hộ bất kỳ hành vi hack, cheat, .
 
 ---
 
